@@ -19,3 +19,4 @@ crewai
 huggingface_hub
 diffusers
 torch
+transformers
